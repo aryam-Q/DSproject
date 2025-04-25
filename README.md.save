@@ -1,4 +1,4 @@
 git add .
-git commit -m "حل نهائي لمشكلة الملفات المتضاربة"
+git commit -m ""
 git push origin main
 
